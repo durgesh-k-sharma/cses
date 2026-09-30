@@ -1,0 +1,22 @@
+{
+  "name": "cses",
+  "version": "1.0.0",
+  "description": "CSES problem solutions and writeups",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitepress": "^2.0.0-alpha.20",
+    "vue": "^3.5.43"
+  }
+}
